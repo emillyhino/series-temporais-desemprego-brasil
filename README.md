@@ -71,5 +71,5 @@ https://servicodados.ibge.gov.br/api/docs/agregados?versao=3
 
 **Emilly Hino**  
 Bacharela em Ciência de Dados 
-[LinkedIn](https://linkedin.com/in/emillyhino)  
+[LinkedIn](linkedin.com/in/emilly-h-3626b1128)  
 [GitHub](https://github.com/emillyhino)
